@@ -1,4 +1,4 @@
-# Contact Management — Line Ending Notes
+# Contact Management 
 
 Quick overview
 - A simple React-based contact management app to add, edit, delete, and search contacts.
