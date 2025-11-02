@@ -5,7 +5,7 @@ Quick overview
 - Purpose: demo app for learning React, state management, and basic CRUD UI.
 
 Features
-- Add new contacts (name, email, phone, notes).
+- Add new contacts (name, email, phone).
 - Edit and delete existing contacts.
 - Search and filter contacts.
 - Persist contacts locally (localStorage) or via API if configured.
